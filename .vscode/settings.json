@@ -2,6 +2,8 @@
     "files.associations": {
         "*.dll": "cpp",
         "iostream": "cpp",
-        "ostream": "cpp"
+        "ostream": "cpp",
+        "limits": "cpp",
+        "type_traits": "cpp"
     }
 }
